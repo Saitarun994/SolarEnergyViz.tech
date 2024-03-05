@@ -24,6 +24,9 @@ This project was made to investigate the differences between triple-junction amo
 - Managed to perform data cleaning on 10 years worth of solar panel data
 - Performed necessary data restructuring using Pandas
 
+## 🛠 Skills
+Data cleaning, data visualization, pandas, python , prophet (time series prediction), html , css , matplotlib
+
 # 📃 Challenges we faced
 
 ## Missing Values
